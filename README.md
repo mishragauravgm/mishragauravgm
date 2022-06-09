@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Gaurav
+- 👀 I’m interested in doing innovations which affect everyone
+- 🌱 I’m currently learning Face Recognition and Biometrics
+- 💞️ I’m looking to collaborate on Kinship Verification, Semi-supervised Learning
+- 📫 How to reach me in.gaurav.mishra@gmail.com
+
+<!---
+mishragauravgm/mishragauravgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
