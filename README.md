@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav
 - 👀 I’m interested in doing innovations which affect everyone
-- 🌱 I’m currently learning Face Recognition and Biometrics
+- 🌱 I am available to work fulltime starting immediately.
 - 💞️ I’m looking to collaborate on Kinship Verification, Semi-supervised Learning
 - 📫 How to reach me in.gaurav.mishra@gmail.com
 
